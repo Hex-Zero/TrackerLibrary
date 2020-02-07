@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace TrackerLibrary
+﻿namespace TrackerLibrary
 {
-   public class PrizeModel
+    public class PrizeModel
     {
         public int PlaceNumber { get; set; }
         public string PlaceName { get; set; }
